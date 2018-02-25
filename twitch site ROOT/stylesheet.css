@@ -46,3 +46,6 @@
     margin:0;
     text-transform:uppercase;
 }
+li{
+    display: inline;
+}
